@@ -1,4 +1,6 @@
 import hero from "../assets/hero.jpg";
+
+
 const Hero = () => {
   return (
     <div className="relative overflow-hidden">
